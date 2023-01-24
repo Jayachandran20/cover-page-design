@@ -134,4 +134,4 @@ run the server
 ## Output:
 ![output](/bkcover/static/image/cover.png)
 ## Result:
-
+ Thee a book cover is created in website.
