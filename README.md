@@ -146,7 +146,12 @@ Add images and other contents using CSS record a screenshot of it.
 ![Screenshot from 2023-01-24 21-10-37](https://user-images.githubusercontent.com/118447015/214339356-4fde7c68-4bbf-46cd-be84-37cd5a36bf98.png)
 
 ## Validation:
-![outpu][/image/bookcover.png]
+![Scr![Screenshot from 2023-01-24 21-36-43](https://user-images.githubusercontent.com/118447015/214353136-297b7c59-24e2-4430-a39e-1d5df2e6be4b.png)
+eenshot from 2023-01-24 21-36-31](https://user-images.githubusercontent.com/118447015/214353014-e0854a5e-0c6d-4d2d-839a-885edd0f4c2c.png)
+
+
+
+
 ## Result:
 
 Thus a website to display the cover page design of a book was successfully created.
