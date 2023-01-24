@@ -4,11 +4,21 @@ To develop a website to display the cover page design of a book
 
 ## Design Steps:
 
-### Step 1:
-wite the python code for the program
+## Step 1:
 
-### Step 2:
-run the server
+Create a new Django project and app.
+## Step 2:
+
+Create a static file directory and mention the changes in settings.
+## Step 3:
+
+Make a new folder templates inside your app and create a html and map them using views and url.
+## Step 4:
+
+Write down the code for book cover using HTML and CSS.
+## step 5:
+
+Add images and other contents using CSS record a screenshot of it.
 
 ## Code:
 ```python
@@ -135,6 +145,8 @@ run the server
 
 ![Screenshot from 2023-01-24 21-10-37](https://user-images.githubusercontent.com/118447015/214339356-4fde7c68-4bbf-46cd-be84-37cd5a36bf98.png)
 
-
+## Validation:
+![outpu][/image/bookcover.png]
 ## Result:
- The a book cover is created in website.
+
+Thus a website to display the cover page design of a book was successfully created.
