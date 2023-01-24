@@ -132,6 +132,9 @@ run the server
 ```
 
 ## Output:
-![output](/bkcover/static/image/cover.png)
+
+![Screenshot from 2023-01-24 21-10-37](https://user-images.githubusercontent.com/118447015/214339356-4fde7c68-4bbf-46cd-be84-37cd5a36bf98.png)
+
+
 ## Result:
  The a book cover is created in website.
